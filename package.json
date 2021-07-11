@@ -1,0 +1,25 @@
+{
+  "name": "danmaku-everywhere.ext",
+  "version": "1.0.0",
+  "description": "Support danmaku style chat on every website ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jks-liu/danmaku-everywhere.ext.git"
+  },
+  "keywords": [
+    "danmaku",
+    "youtube",
+    "bilibili",
+    "video"
+  ],
+  "author": "Jks Liu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jks-liu/danmaku-everywhere.ext/issues"
+  },
+  "homepage": "https://github.com/jks-liu/danmaku-everywhere.ext#readme"
+}
