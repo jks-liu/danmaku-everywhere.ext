@@ -1,0 +1,21 @@
+{
+
+    "manifest_version": 2,
+    "name": "Danmaku Everywhere",
+    "version": "1.0",
+  
+    "description": "Support danmaku style chat on every website.",
+  
+    "icons": {
+        "48": "icons/cloud_download_black_24dp.svg",
+        "96": "icons/cloud_download_black_24dp.svg"
+    }
+  
+    // "content_scripts": [
+    //   {
+    //     "matches": ["<all_urls>"],
+    //     "js": ["borderify.js"]
+    //   }
+    // ]
+  
+  }
